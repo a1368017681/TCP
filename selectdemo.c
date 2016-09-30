@@ -7,6 +7,7 @@
 #define oops(m,x) { perror(m);exit(x);}
 
 main(int ac,char *av[]){
+    //dsfsdfsdfds
     int fd1,fd2;
     struct timeval timeout;
     fd_set readfds;
